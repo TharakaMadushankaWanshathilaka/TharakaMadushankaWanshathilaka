@@ -74,6 +74,6 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TharakaMadushankaWanshathilaka.TharakaMadushankaWanshathilaka)
 [![Followers](https://img.shields.io/github/followers/TharakaMadushankaWanshathilaka?label=Follow&style=social)](https://github.com/TharakaMadushankaWanshathilaka)
 
-### Let's Play :video_game:
-(https://github.com/{{TharakaMadushankaWanshathilaka}}/{{TharakaMadushankaWanshathilaka}}/blob/output/github-contribution-grid-snake.svg)
+### :video_game: Let's Play
+(https://github.com/TharakaMadushankaWanshathilaka/TharakaMadushankaWanshathilaka/blob/output/github-contribution-grid-snake.svg)
 
