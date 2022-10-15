@@ -5,12 +5,21 @@
 - :eyes: I'm looking to **Collaborate on GitHub** :octocat:
 - :zap: Fun fact **I love traveling** :earth_asia:
 
+### :memo: GitHub Statues
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand">
+</p>
+
 ### :chart_with_upwards_trend: My GitHub History
 
+![Tharaka's GitHub status](https://github-readme-stats.vercel.app/api?username=TharakaMadushankaWanshathilaka&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TharakaMadushankaWanshathilaka&layout=compact&langs_count=10)
+
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharakaMadushankaWanshathilaka&count_private=true&show_icons=true)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharakaMadushankaWanshathilaka)](https://github.com/anuraghazra/github-readme-stats&layout=compact&langs_count=10)
+-->
 
 ### :dart: Languages and Tools
 
@@ -33,7 +42,7 @@
   <img src="" alt="" width="45" height="45"/>
   -->
 </p>
-
+  
 ### :electric_plug: Connect with me
 
 <p align="left">
