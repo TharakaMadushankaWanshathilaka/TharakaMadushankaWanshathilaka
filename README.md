@@ -1,7 +1,7 @@
 # Hi! :wave: I'am Tharaka Madushanka
 
 - :books: I’m interested in :computer: **Coding** 
-- :seedling: I’m currently learning :game_die: **Objects Oriented Programming**
+- :seedling: I’m currently learning :game_die: **Full Stack Devoloping**
 - :eyes: I'm looking to **Collaborate on GitHub** :octocat:
 - :zap: Fun fact **I love traveling** :earth_asia:
 
@@ -36,6 +36,17 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="Mysql" width="45" height="45"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="70" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="70" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="70" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
+  
+  <img src="https://www.flaticon.com/free-icon/visual-studio_906324?term=visual+studio&page=1&position=1&origin=search&related_id=906324#" alt="Visual Studio" width="45" height="45"/>
+  
+  <img src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest?cb=20210305211354" alt="Android Studio" width="45" height="45"/>
 
   <!--  
   <img src="" alt="" width="45" height="45"/>
