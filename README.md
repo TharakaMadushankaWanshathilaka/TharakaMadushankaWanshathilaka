@@ -1,7 +1,7 @@
 # Hi! :wave: I'am Tharaka Madushanka
 
 - :books: I’m interested in :computer: **Coding** 
-- :seedling: I’m currently learning :game_die: **Full Stack Devoloping**
+- :seedling: I’m currently learning :game_die: **Full Stack Developing**
 - :eyes: I'm looking to **Collaborate on GitHub** :octocat:
 - :zap: Fun fact **I love traveling** :earth_asia:
 
@@ -44,9 +44,9 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
   
-  <img src="https://www.flaticon.com/free-icon/visual-studio_906324?term=visual+studio&page=1&position=1&origin=search&related_id=906324#" alt="Visual Studio" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/c8749cfc4be0e67a266be0554282d73d967db910/logos/visual-studio.svg" alt="Visual Studio" width="45" height="45"/>
   
-  <img src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest?cb=20210305211354" alt="Android Studio" width="45" height="45"/>
+  <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" alt="Android Studio" width="45" height="45"/>
 
   <!--  
   <img src="" alt="" width="45" height="45"/>
@@ -71,7 +71,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="45" height="45"/>
   </a>
   
-  <a href="https://www.instagram.com/tharaka_madushanka_tmw7/">
+  <a href="https://www.instagram.com/___t_h_a_r_a_k_a___/">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" width="45" height="45"/>
   </a>
   
