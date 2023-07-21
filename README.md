@@ -37,6 +37,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="Mysql" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" alt="R" width="45" height="45"/>
   
   
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="70" height="45"/>
@@ -51,6 +52,10 @@
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg" alt="Visual Studio Code" width="45" height="45"/>
   <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" alt="Android Studio" width="45" height="45"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/github-copilot.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.svg" alt="Canva" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png?20211017091311" alt="Draw.io" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" alt="Figma" width="45" height="45"/>
+
 
   <!--  
   <img src="" alt="" width="45" height="45"/>
