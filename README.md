@@ -90,5 +90,6 @@
 [![Followers](https://img.shields.io/github/followers/TharakaMadushankaWanshathilaka?label=Follow&style=social)](https://github.com/TharakaMadushankaWanshathilaka)
 
 ### :video_game: Let's Play
-![Snake animation](https://github.com/TharakaMadushankaWanshathilaka/TharakaMadushankaWanshathilaka/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TharakaMadushankaWanshathilaka/TharakaMadushankaWanshathilaka/blob/output/github-contribution-grid-snake-dark.svg)
+
 
