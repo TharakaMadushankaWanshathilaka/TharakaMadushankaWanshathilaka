@@ -37,13 +37,13 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="45" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="Mysql" width="45" height="45"/>
-  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="45" height="45"/>  
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="70" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="70" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="70" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>  
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/c8749cfc4be0e67a266be0554282d73d967db910/logos/visual-studio.svg" alt="Visual Studio" width="45" height="45"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg" alt="Visual Studio Code" width="45" height="45"/>
   <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" alt="Android Studio" width="45" height="45"/>
