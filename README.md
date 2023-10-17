@@ -46,7 +46,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/c8749cfc4be0e67a266be0554282d73d967db910/logos/visual-studio.svg" alt="Visual Studio" width="45" height="45"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg" alt="Visual Studio Code" width="45" height="45"/>
-  <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" alt="Android Studio" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/128px-Android_Studio_icon_%282023%29.svg.png" alt="Android Studio" width="45" height="45"/>
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/github-copilot.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.svg" alt="Canva" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg.png?20211017091311" alt="Draw.io" width="45" height="45"/>
